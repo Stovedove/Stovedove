@@ -1,16 +1,12 @@
-## Hi there 👋🕊️
+## hi, im stove🕊️.
 
-<!--
-**Stovedove/Stovedove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+```diff
+@@software engineering student.@@
++ living in medellin, colombia.
+- 20 years old
+! graphic designer and boxer
+# 📖 i like crypto 
+```
+------
+[Stovedove](https://github.com/Stovedove)
