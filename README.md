@@ -4,7 +4,6 @@
 hi, im stove🕊️.
 @@software engineering student.@@
 + living in medellin, colombia.
-- 20 years old
 ! graphic designer and boxer
 # 📖 i like crypto 
 ```
